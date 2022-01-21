@@ -3,12 +3,13 @@ Mini_Ecom_Api using Django Rest Framework
 
 
 #Project Setup
-1. Create virtual environment using python3 -m venv env
+1. Create virtual environment using python3 -m venv env 
 2. activate the environment
-3. Install Dependencies using pip Install -r requirement.txt
-4. makemigrations - python manage.py makemigrations
-5. migrate - python manange.py migrate
-6. runserver - ptyhon manage.py runserver
+3. --cd Mini_Ecom_Api/
+4. Install Dependencies using pip Install -r requirement.txt
+5. makemigrations - python manage.py makemigrations
+6. migrate - python manange.py migrate
+7. runserver - ptyhon manage.py runserver
 
 Your APIs Are Ready to serve now
 
